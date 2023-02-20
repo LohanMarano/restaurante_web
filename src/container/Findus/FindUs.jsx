@@ -10,7 +10,7 @@ const FindUs = () => (
       <h1 className="headtext__cormorant" style={{ marginBottom: '3rem' }}>Localização</h1>
       <div className="app__wrapper-content">
         <p className="p__opensans">Avenida Brigadeiro Faria Lima 1518, São Paulo.</p>
-        <p className="p__cormorant" style={{ color: '#DCCA87', margin: '2rem 0' }}>Opening Hours</p>
+        <p className="p__cormorant" style={{ color: '#DCCA87', margin: '2rem 0' }}>Horários de Abertura e Fechamento</p>
         <p className="p__opensans">Segunda - Sexta: 10:00 am - 02:00 am</p>
         <p className="p__opensans">Sábado - Domingo: 10:00 am - 03:00 am</p>
       </div>
